@@ -37,12 +37,12 @@
   ↳ [View live](https://portfolio-jami-rankinen.netlify.app) | [Source](https://github.com/Jamirankinen/Portfolio)
 
 - 🎲 **Mini Yahtzee (React Native Game)**  
-  ↳ Classic Yahtzee experience rebuilt for mobile  
-  [Source Code](https://github.com/Jamirankinen/Mini-Yahtzee)
+  Classic Yahtzee experience rebuilt for mobile  
+  ↳ [Source Code](https://github.com/Jamirankinen/Mini-Yahtzee)
 
 - 💬 **Chat App Project**  
-  ↳ A real-time messaging interface built with React and Firebase  
-  [Source Code](https://github.com/Jamirankinen/chat-app-project)
+  A real-time messaging interface built with React and Firebase  
+  ↳ [Source Code](https://github.com/Jamirankinen/chat-app-project)
 
 > More projects coming soon! I'm always building, learning, and refining ✨
 
