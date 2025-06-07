@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jami Rankinen 👋</h1>
+<h1 align="center">Hi, I'm Jami 👋</h1>
 
 <p align="center">
   <b>Junior Frontend Developer</b> from Finland • Passionate about crafting clean, interactive, and responsive web apps<br/>
