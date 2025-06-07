@@ -33,8 +33,8 @@
 
 ## 🚀 Portfolio & Featured Projects
 
-- 🌐 **Portfolio Website**
-  Simple animated online resume I use to tell you about myself and my projects!
+- 🌐 **Portfolio Website**  
+  My animated online portfolio for you to explore!   
   ↳ [View live](https://portfolio-jami-rankinen.netlify.app) | [Source](https://github.com/Jamirankinen/Portfolio)
 
 - 🎲 **Mini Yahtzee (React Native Game)**  
