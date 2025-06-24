@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Junior Frontend Developer</b> from Finland • Passionate about crafting clean, interactive, and responsive web apps<br/>
-  Open to roles in 🇫🇮 Finland, across the 🇪🇺 EU, or remote 🌍
+  Open to roles in 🇫🇮 Finland, across the 🇪🇺 Europe, or remote 🌍
 </p>
 
 ---
