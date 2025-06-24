@@ -62,7 +62,7 @@
 
 <p>
   <a href="mailto:jamuxi34@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jamirankinen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jami-rankinen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://portfolio-jami-rankinen.netlify.app"><img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=vercel&logoColor=white"/></a>
 </p>
 
