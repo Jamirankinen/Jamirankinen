@@ -35,7 +35,7 @@
 
 - 🌐 **Portfolio Website**  
   My animated online portfolio for you to explore!   
-  ↳ [View live](https://portfolio-jami-rankinen.netlify.app) | [Source](https://github.com/Jamirankinen/Portfolio)
+  ↳ [View live](www.jamirankinen.com) | [Source](https://github.com/Jamirankinen/Portfolio_v2)
 
 - 🎲 **Mini Yahtzee (React Native Game)**  
   Classic Yahtzee experience rebuilt for mobile  
