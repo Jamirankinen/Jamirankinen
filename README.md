@@ -25,7 +25,6 @@
 ## 🧠 About Me
 
 - 🎓 Bachelor’s Degree in Business & Information Systems  
-- 🌱 Currently learning **TypeScript**, **advanced React patterns**, and **accessibility standards**
 - 🧩 Love building polished UIs and solving logic-based problems
 - ⚡ Fun fact: My passion for coding grew *after* graduating!
 
